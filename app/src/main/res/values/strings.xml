@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="hint">"言語設定されたものを入力"</string>
+    <string name="button">Text To Speech</string>
+</resources>
